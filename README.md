@@ -1,3 +1,3 @@
-# ds_algo_practice
+# Data Structure and Algorihtm problems
 
 Data structure and algorithm problems from competitive coding platforms
